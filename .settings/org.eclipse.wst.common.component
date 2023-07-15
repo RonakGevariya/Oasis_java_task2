@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="J2EEMVC">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <property name="context-root" value="J2EEMVC"/>
+        <property name="java-output-path" value="/J2EEMVC/build/classes"/>
+    </wb-module>
+</project-modules>
